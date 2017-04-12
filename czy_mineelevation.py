@@ -12,7 +12,7 @@
    ########     ########
             
            #  #
-         B  
+           
            
 import rhinoscriptsyntax as rs
 import random as r
